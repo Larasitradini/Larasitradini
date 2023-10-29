@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Laras Itra Dini
+- 👋 Hi, I’m Laras Itra Dini.
 i'm graduate student of telecommunication engineering from Politeknik Negeri Padang.
 Welcome to my portofolio🧾
 
