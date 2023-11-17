@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Laras Itra Dini.
 I'm graduate student of telecommunication engineering from Politeknik Negeri Padang.
-Welcome to my portofolio🧾
+
 
 <!---
 Larasitradini/Larasitradini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
